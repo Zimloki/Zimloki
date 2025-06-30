@@ -78,6 +78,11 @@ I'm always open to new opportunities and engaging projects.
 ![Jira](https://img.shields.io/badge/Jira-005eff?style=for-the-badge&logo=jira&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-005eff?style=for-the-badge&logo=jupyter&logoColor=white) 
 
+- **3D Modeling & Game Development**
+
+![Blender](https://img.shields.io/badge/Blender-8e44ad?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-8e44ad?style=for-the-badge&logo=unity&logoColor=white)
+
   ## Contact me 📱
 
 <p align="left">
