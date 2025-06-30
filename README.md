@@ -5,28 +5,28 @@
 
 ## Introduction 🧑‍💻
 
-My name is Ivan Zazvonov. I'm a fourth-year student at [RTU MIREA](https://english.mirea.ru/), currently pursuing a bachelor's degree in *["Intelligent Decision Support Systems"](https://priem.mirea.ru/guide-direction?direction_id=1210)* within the field of *"Software Engineering"*, based in Moscow, Russia.
+My name is **Ivan Zazvonov**. I'm a fourth-year student at [RTU MIREA](https://english.mirea.ru/), currently pursuing a bachelor's degree in *["Intelligent Decision Support Systems"](https://priem.mirea.ru/guide-direction?direction_id=1210)* within the field of *"Software Engineering"*, based in Moscow, Russia.
 
 I'm always open to new opportunities and engaging projects.
 
 ## Studies 📚
 
-Bachelor's Degree – *Software Engineering*  
-Program: *Intelligent Decision Support Systems*  
-University: RTU MIREA, Moscow
+**Bachelor's Degree:** *Software Engineering*  
+**Program:** *Intelligent Decision Support Systems*  
+**University:** RTU MIREA, Moscow
 
-- First year:
+- **👶 First year:**
   - Semester 1
   - Semester 2
-- Second year:
+- **👦 Second year:**
   - Semester 3
   - Semester 4
-- Third year:
+- **👨 Third year:**
   - Semester 5
   - Semester 6
-- Fourth year:
+- **👴 Fourth year:**
   - Semester 7 *(in progress)*
-  - Semester 8 
+  - Semester 8
 
 ## Hard skills 🧠
 
@@ -82,6 +82,6 @@ University: RTU MIREA, Moscow
 
 <p align="left">
   <a href="https://t.me/Aevantg" target="_blank">
-    <img src="https://img.icons8.com/clouds/100/000000/telegram-app.png" alt="Telegram" width="60"/>
+    <img src="https://img.icons8.com/clouds/100/000000/telegram-app.png" alt="Telegram" width="80"/>
   </a>
 </p>
