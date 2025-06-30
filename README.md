@@ -5,7 +5,7 @@
 
 ## Introduction 🧑‍💻
 
-My name is Ivan Zazvonov. I'm a fourth-year student at RTU MIREA, currently pursuing a bachelor's degree in *"Intelligent Decision Support Systems"* within the field of *"Software Engineering"*, based in Moscow, Russia.
+My name is Ivan Zazvonov. I'm a fourth-year student at [RTU MIREA](https://english.mirea.ru/), currently pursuing a bachelor's degree in *["Intelligent Decision Support Systems"](https://priem.mirea.ru/guide-direction?direction_id=1210)* within the field of *"Software Engineering"*, based in Moscow, Russia.
 
 I'm always open to new opportunities and engaging projects.
 
@@ -44,9 +44,9 @@ University: RTU MIREA, Moscow
 ![Plotly](https://img.shields.io/badge/Plotly-20135c?style=for-the-badge&logo=plotly&logoColor=white) 
 
 - **Languages**  
-
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white) 
+ 
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=black) 
 
 - **Python Frameworks**  
 
@@ -80,9 +80,8 @@ University: RTU MIREA, Moscow
 
   ## Contact me 📱
 
-<p align="center">
-  <a href="[https://t.me/your_username](https://t.me/Aevantg)" target="_blank">
+<p align="left">
+  <a href="https://t.me/Aevantg" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/telegram-app.png" alt="Telegram" width="60"/>
   </a>
 </p>
-
