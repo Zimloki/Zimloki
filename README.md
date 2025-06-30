@@ -28,6 +28,10 @@ I'm always open to new opportunities and engaging projects.
   - Semester 7 *(in progress)*
   - Semester 8
 
+## Stats 📊
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyYurpalov&layout=compact&theme=dark)
+
 ## Hard skills 🧠
 
 - **Machine Learning**  
