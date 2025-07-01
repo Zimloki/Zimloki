@@ -30,7 +30,7 @@ I'm always open to new opportunities and engaging projects.
 
 ## Stats 📊
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlokiv&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimloki&layout=compact&theme=dark)
 
 ## Hard skills 🧠
 
